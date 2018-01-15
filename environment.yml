@@ -17,7 +17,6 @@ dependencies:
   - nose
   - pandas
   - matplotlib
-  - json
   - requests
   - pip:
     - pgcontents
